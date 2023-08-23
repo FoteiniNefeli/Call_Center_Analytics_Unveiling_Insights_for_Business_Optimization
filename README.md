@@ -1,4 +1,4 @@
-## Call Center Analytics: Unveiling Insights for Business Optimization
+## Call Center Analytics: Unveiling Insights for Business Optimization 
 ---
 
 ### Case Description
